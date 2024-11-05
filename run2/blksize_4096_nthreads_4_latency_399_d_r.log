@@ -1,0 +1,19 @@
+===========================
+Accel Mode: CPU + DSA
+Threads: 4
+Block size: 8192 B
+Random buffer: 1
+Total size: 2 GB
+==> CPU
+CPU : 8.326782
+==> DSA
+DSA : 3.901848
+===================
+CPU Prefault(latency): 1967.666603
+CPU Prefault(BW): 8.326782(GB/s)
+CPU Prefault Cycles: 0
+CPU Prefault Task Clocks: 0
+DSA Prefault(latency): 4199.399324
+DSA Prefault(BW): 3.901848(GB/s)
+DSA Prefault Cycles: 0
+DSA Prefault Task Clocks: 0
